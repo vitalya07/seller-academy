@@ -6,7 +6,7 @@
     position: relative;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding-top: 150px;
 }
 .hero__main-subtitle {
@@ -81,8 +81,8 @@
     width: 200px;
     padding: 12px;
     position: absolute;
-    top: 65%;
-    left: 48%;
+    top: 75%;
+    left: 52%;
     transform: translate(-50%, -50%);
 }
 .hero__warning-info {
@@ -96,4 +96,34 @@
     position: absolute;
     bottom: -20px;
     left: -20px;
+}
+.hero__phone {
+    position: relative;
+}
+.hero__phone-procentage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 95px;
+}
+.hero__phone-procentage > picture {
+    width: 100%;
+    height: 100%;
+}
+.hero__phone-procentage > picture > img {
+    width: 100%;
+    height: 100%;
+}
+.hero__phone-img {
+    width: 425px;
+    height: 510px;
+}
+.hero__phone-img > picture {
+    width: 100%;
+    height: 100%;
+}
+.hero__phone-img > picture > img {
+    width: 100%;
+    height: 100%;
 }
