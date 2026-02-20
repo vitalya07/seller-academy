@@ -1,6 +1,6 @@
 .course {
     padding: 80px 0;
-    position: relative;
+    position: relative;    
 }
 .course::before {
     content: '';

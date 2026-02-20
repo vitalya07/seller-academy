@@ -1,6 +1,7 @@
 .tutor {
     padding: 120px 0;
     position: relative;
+    margin-bottom: 220px;
 }
 .tutor::before {
     content: '';
@@ -8,7 +9,7 @@
     top: 0;
     right: 0;
     width: 30%;
-    height: 80%;
+    height: 50%;
     background-color: var(--pinkColor);
     border-radius: 100%;
     z-index: -1;

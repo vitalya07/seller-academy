@@ -10,5 +10,7 @@
     --blueColor: #56b0ed;
     --grayColor: #aba8a8;
     --pinkColor: #f8eeff;
+    --pinkColor2: #dcbcfa;
+    --grayPinkColor: #f4f0fa;
     --gradient1: linear-gradient(180deg,rgba(236,112,138,1) 0%,rgba(235,96,142,1) 100%)
 }
